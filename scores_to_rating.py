@@ -2,7 +2,7 @@ def convert_to_numeric(score):
     """
     Covert score to a numerical type.
     """
-    converted_score = #convert the score
+    converted_score = float(score)
     return converted_score
 
 def sum_of_middle_three(score1,score2,score3,score4,score5):
